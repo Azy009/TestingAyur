@@ -1,0 +1,232 @@
+
+.positionre .owl-prev{
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 0 !important;
+    font: inherit;
+height: 0px;
+    position: absolute;
+    top: 40%;
+    z-index: 44455555;
+    left: 28px;
+}
+
+.positionre .owl-next{
+    height: 0px;
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 0 !important;
+    font: inherit;
+    position: absolute;
+    top: 40%;
+    z-index: 44455555;
+    right: 28px;
+}
+.positionre .owl-next span {
+    font-size: 31px;
+    padding: 0px 18px;
+        background: rgba(255, 255, 255, 0.5);
+    margin: 0px;
+}
+.positionre .owl-next span:hover{
+    background-color: #fff;
+}
+.positionre .owl-nav{
+    visibility: hidden;
+}
+.positionre .owl-carousel:hover > .owl-nav{
+  visibility: visible;
+}
+.positionre .owl-prev span {
+    font-size: 31px;
+    padding: 0px 18px;
+        background: rgba(255, 255, 255, 0.5);
+    margin: 0px;
+}
+.positionre .owl-prev span:hover{
+    background-color: #fff;
+}
+.positionre .owl-next span{
+    font-size: 31px;
+}
+.positionre .owl-prev span{
+    font-size: 31px;
+}
+.positionre .owl-next:hover > span{
+    color: green;
+}
+.positionre .owl-prev:hover > span{
+    color: green;
+}
+.positionre {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0px 40px;
+    position: relative;
+}
+
+.featuredcomps .owl-prev{
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 0 !important;
+    font: inherit;
+height: 0px;
+    position: absolute;
+    top: 40%;
+    z-index: 44455555;
+    left: 14px;
+}
+
+.featuredcomps .owl-next{
+    height: 0px;
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 0 !important;
+    font: inherit;
+    position: absolute;
+    top: 40%;
+    z-index: 44455555;
+    right: 14px;
+}
+.featuredcomps .owl-next span {
+    font-size: 31px;
+    padding: 5px 22px;
+        background: rgba(255, 255, 255, 0.5);
+            box-shadow: 0px 0px 9.8px 0.2px rgb(0 0 0 / 5%);
+    margin: 0px;
+}
+.featuredcomps .owl-next span:hover{
+    background-color: #fff;
+}
+.featuredcomps .owl-nav{
+    visibility: hidden;
+}
+.featuredcomps .owl-carousel:hover > .owl-nav{
+  visibility: visible;
+}
+.featuredcomps .owl-prev span {
+    font-size: 31px;
+    padding: 5px 22px;
+        background: rgba(255, 255, 255, 0.5);
+            box-shadow: 0px 0px 9.8px 0.2px rgb(0 0 0 / 5%);
+    margin: 0px;
+}
+.featuredcomps .owl-prev span:hover{
+    background-color: #fff;
+}
+.featuredcomps .owl-next span{
+    font-size: 31px;
+}
+.featuredcomps .owl-prev span{
+    font-size: 31px;
+}
+.featuredcomps .owl-next:hover > span{
+    color: green;
+}
+.featuredcomps .owl-prev:hover > span{
+    color: green;
+}
+.careofyoucomps .owl-prev{
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 0 !important;
+    font: inherit;
+height: 0px;
+    position: absolute;
+    top: 40%;
+    z-index: 44455555;
+    left: 14px;
+}
+
+.careofyoucomps .owl-next{
+    height: 0px;
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 0 !important;
+    font: inherit;
+    position: absolute;
+    top: 40%;
+    z-index: 44455555;
+    right: 14px;
+}
+.careofyoucomps .owl-next span {
+    font-size: 31px;
+    padding: 5px 22px;
+        background: rgba(255, 255, 255, 0.5);
+            box-shadow: 0px 0px 9.8px 0.2px rgb(0 0 0 / 5%);
+    margin: 0px;
+}
+.careofyoucomps .owl-next span:hover{
+    background-color: #fff;
+}
+.careofyoucomps .owl-nav{
+    visibility: hidden;
+}
+.careofyoucomps .owl-carousel:hover > .owl-nav{
+  visibility: visible;
+}
+.careofyoucomps .owl-prev span {
+    font-size: 31px;
+    padding: 5px 22px;
+        background: rgba(255, 255, 255, 0.5);
+            box-shadow: 0px 0px 9.8px 0.2px rgb(0 0 0 / 5%);
+    margin: 0px;
+}
+.careofyoucomps .owl-prev span:hover{
+    background-color: #fff;
+}
+.careofyoucomps .owl-next span{
+    font-size: 31px;
+}
+.careofyoucomps .owl-prev span{
+    font-size: 31px;
+}
+.careofyoucomps .owl-next:hover > span{
+    color: green;
+}
+.careofyoucomps .owl-prev:hover > span{
+    color: green;
+}
+.featuredcomps {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0px 40px;
+    position: relative;
+}
+@media screen and (max-width: 552px) {
+    .positionre .owl-prev{
+      background: none;
+      color: inherit;
+      border: none;
+      padding: 0 !important;
+      font: inherit;
+  height: 0px;
+      position: absolute;
+      top: 40%;
+      z-index: 44455555;
+      left: -3px;
+  }
+  
+  .positionre .owl-next{
+      height: 0px;
+      background: none;
+      color: inherit;
+      border: none;
+      padding: 0 !important;
+      font: inherit;
+      position: absolute;
+      top: 40%;
+      z-index: 44455555;
+      right: -3px;
+  }
+}

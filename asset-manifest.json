@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TestingAyur/static/css/main.57734aa1.css",
+    "main.js": "/TestingAyur/static/js/main.8cbf17ee.js",
+    "static/media/breadcrmp.png": "/TestingAyur/static/media/breadcrmp.e051f49f7e688ab636fb.png",
+    "static/media/leaf.gif": "/TestingAyur/static/media/leaf.f23d977337ef508c8cb0.gif",
+    "static/media/abcd.png": "/TestingAyur/static/media/abcd.42992289b479a2611601.png",
+    "index.html": "/TestingAyur/index.html",
+    "main.57734aa1.css.map": "/TestingAyur/static/css/main.57734aa1.css.map",
+    "main.8cbf17ee.js.map": "/TestingAyur/static/js/main.8cbf17ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57734aa1.css",
+    "static/js/main.8cbf17ee.js"
+  ]
+}
